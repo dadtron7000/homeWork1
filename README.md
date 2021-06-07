@@ -6,4 +6,4 @@ Refactored code to reflect accessability standards. Reoganized stylesheet to fol
 
 # screenshot
 screenshot of function webpage.
-![screenshot1](./assets/images/horiseonmarketing.png)
+![screenshot1](assets\images\horiseon-marketing.png)
