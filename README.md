@@ -6,7 +6,7 @@ Refactored code to reflect accessability standards. Reoganized stylesheet to fol
 
 # screenshot
 screenshot of function webpage.
-![screenshot1](assets\images\horiseon-marketing.png)
+![screenshot1](\assets\images\horiseon-marketing.png)
 
 # go there
 link to live webpage: https://dadtron7000.github.io/homeWork1/
